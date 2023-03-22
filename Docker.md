@@ -26,8 +26,9 @@ Docker uses a client-server architecture, with the Docker client sending command
 ### Docker container act as client system architecture:
 
 Docker daemon(server) → RESTAPI → Docker CLI → (Container, Image, Data volumes, Network)
+![docker](https://user-images.githubusercontent.com/53580449/227033576-d7dfab03-aabf-4359-93e9-adc7a696391b.png)
 
-![docker.png](DOCKER%205a676cb4a2764cee9496471554c05207/docker.png)
+
 
 ### Docker Installation
 
